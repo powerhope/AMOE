@@ -5,7 +5,7 @@ This software is made publicly for research use only.
 
 Please cite the following if you plan to use the code in your own work: 
 Shaojun Qu, Huang Tan, Qiaoliang Li, Zili Peng, Interactive image segmentation based on the appearance model and orientation energy, Computer Vision and Image Understanding,
-2022,103371,DOI：10.1016/j.cviu.2022.103371
+2022,217:103371,DOI：https://doi.org/10.1016/j.cviu.2022.103371
 
 Tested on matlab R2013b, R2015R.
 run:
